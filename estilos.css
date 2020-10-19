@@ -13,7 +13,7 @@ body:before{
 	background-image: url("g1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	opacity: 0.3;
+	opacity: 0.4;
 	z-index: -1
 }
 h3{
